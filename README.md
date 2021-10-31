@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=gthompson30)
 
-Hi, I'm Gabriel Thompson
+## Hi, I'm Gabriel Thompson
 
 _About me:_
 - **Current occupation**: Student at Stuyvesant High School
