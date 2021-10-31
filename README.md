@@ -1,5 +1,14 @@
 ![](https://komarev.com/ghpvc/?username=gthompson30)
 
+Hi, I'm Gabriel Thompson
+
+_About me:_
+- **Current occupation**: Student at Stuyvesant High School
+- **Languages I like**: Python, Java, HTML/JS/CSS, Markdown, $\pi$, C++, some NetLogo from time to time
+- **Languages I would like to know better**: C/C++, Rust, Assembly
+- **Non-CS-related interests**: Music composition, Long-distance cycling, Geography, Vexillography
+- **How to reach me**: gthompson30 [at] stuy [dot] edu
+
 <!--
 **gthompson30/gthompson30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
