@@ -1,10 +1,10 @@
 ![](https://komarev.com/ghpvc/?username=gthompson30)
 
-## Hi, I'm Gabriel Thompson
+# Hi, I'm Gabriel Thompson
 
-_About me:_
-- **Current occupation**: Student at Stuyvesant High School
-- **Languages I like**: Python, Java, HTML/JS/CSS, Markdown, $\pi$, C++, some NetLogo from time to time
+### _About me:_
+- **Current occupation**: Junior at Stuyvesant High School, Teacher at [StuyPy](https://stuyactivities.org/stuypy), Writer for [Math & CS Research](https://mathcsr.org/), and Organizer for [StuyHacks](stuyhacks.org).
+- **Languages I like**: Python, Java, HTML/JS/CSS, Markdown, LaTeX, C++, some NetLogo from time to time
 - **Languages I would like to know better**: C/C++, Rust, Assembly
 - **Non-CS-related interests**: Music composition, Long-distance cycling, Geography, Vexillography
 - **How to reach me**: gthompson30 [at] stuy [dot] edu
