@@ -7,7 +7,10 @@
 - **Languages I like**: Python, Java, HTML/JS/CSS, Markdown, LaTeX, C++, some NetLogo from time to time
 - **Languages I would like to know better**: C/C++, Rust, Assembly
 - **Non-CS-related interests**: Music composition, Long-distance cycling, Geography, Vexillography
+- **My GitHub stats**: [Here!](https://github-readme-stats.vercel.app/api?username=gthompson30) I didn't embed them so it's not intrusive.
 - **How to reach me**: gthompson30 [at] stuy [dot] edu
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=gthompson30)](https://github.com/gthompson30/github-readme-stats)
 
 <!--
 **gthompson30/gthompson30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
