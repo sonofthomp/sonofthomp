@@ -4,7 +4,7 @@
 
 ### _About me:_
 - **Current occupation**: Junior at Stuyvesant High School, Teacher at [StuyPy](https://stuyactivities.org/stuypy), Writer for [Math & CS Research](https://mathcsr.org/), Organizer for [StuyHacks](stuyhacks.org), Occasional [Blogger](https://www.gabe.biz/blog)
-- **Languages I like (in descending order of fluency)**: Python, HTML, CSS, Processing/p5, JS, Java, TI-BASIC, Markdown, LaTeX, C++, some NetLogo from time to time
+- **Languages I like (in descending order of fluency)**: Python, HTML, CSS, Processing/p5, JS, Java, TI-BASIC, Markdown, LaTeX, C++, Sonic Pi, some NetLogo from time to time
 - **Languages I would like to know better**: C/C++, Rust, Assembly
 - **Non-CS-related interests**: Music composition, Long-distance cycling, Geography, Vexillography
 - **How to reach me**: gthompson30 [at] stuy [dot] edu
