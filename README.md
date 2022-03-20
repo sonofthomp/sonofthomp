@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=gthompson30)
+![](https://komarev.com/ghpvc/?username=sonofthomp)
 
 # Hi, I'm Gabriel Thompson
 
