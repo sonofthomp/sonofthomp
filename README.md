@@ -10,7 +10,7 @@
 - **How to reach me**: gthompson30 [at] stuy [dot] edu
 <!-- **My GitHub stats**: [Here!](https://github-readme-stats.vercel.app/api?username=gthompson30) I didn't embed them so it's not intrusive. -->
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=gthompson30)](https://github.com/gthompson30/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=sonofthomp)](https://github.com/sonofthomp/github-readme-stats)
 
 <!--
 **gthompson30/gthompson30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
